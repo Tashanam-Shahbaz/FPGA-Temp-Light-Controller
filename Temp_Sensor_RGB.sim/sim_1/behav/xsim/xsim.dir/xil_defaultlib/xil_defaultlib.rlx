@@ -1,0 +1,11 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/DSP_Projects/Temp_Sensor_RGB/Temp_Sensor_RGB.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/DSP_Projects/Temp_Sensor_RGB/Temp_Sensor_RGB.srcs/sim_1/new/testBenchCEP.v,1674416603,verilog,,,,testBenchCEP,,,,,,,,
+C:/DSP_Projects/Temp_Sensor_RGB/Temp_Sensor_RGB.srcs/sources_1/new/clkgen_200kHz.v,1674383966,verilog,,C:/DSP_Projects/Temp_Sensor_RGB/Temp_Sensor_RGB.srcs/sources_1/new/i2c_master.v,,clkgen_200kHz,,,,,,,,
+C:/DSP_Projects/Temp_Sensor_RGB/Temp_Sensor_RGB.srcs/sources_1/new/i2c_master.v,1674317818,verilog,,C:/DSP_Projects/Temp_Sensor_RGB/Temp_Sensor_RGB.srcs/sources_1/new/pwm.v,,i2c_master,,,,,,,,
+C:/DSP_Projects/Temp_Sensor_RGB/Temp_Sensor_RGB.srcs/sources_1/new/pwm.v,1674460552,verilog,,C:/DSP_Projects/Temp_Sensor_RGB/Temp_Sensor_RGB.srcs/sources_1/new/seg_Display.v,,pwm,,,,,,,,
+C:/DSP_Projects/Temp_Sensor_RGB/Temp_Sensor_RGB.srcs/sources_1/new/seg_Display.v,1674459202,verilog,,C:/DSP_Projects/Temp_Sensor_RGB/Temp_Sensor_RGB.srcs/sources_1/new/top.v,,seg_Display,,,,,,,,
+C:/DSP_Projects/Temp_Sensor_RGB/Temp_Sensor_RGB.srcs/sources_1/new/top.v,1674415376,verilog,,C:/DSP_Projects/Temp_Sensor_RGB/Temp_Sensor_RGB.srcs/sim_1/new/testBenchCEP.v,,top,,,,,,,,
